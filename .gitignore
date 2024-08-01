@@ -1,0 +1,11 @@
+target/*
+.settings
+.project
+.externalToolBuilders
+.iml
+.classpath
+virtualization/*
+/bin/
+/target/
+/build
+/demo/target/*

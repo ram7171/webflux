@@ -1,0 +1,6 @@
+java -jar external-services.jar
+
+to test this:
+1. curl http://localhost:8080/traditional/products
+2. curl http://localhost:8080/reactive/products
+2. curl -N http://localhost:8080/reactive/products - to avoid buffering.
